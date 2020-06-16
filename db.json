@@ -1,0 +1,2644 @@
+{
+  "categories": {
+    "categories": [
+      {
+        "id": "5ee3b13db410a7a58f78a245",
+        "name":"Pizzarias",
+        "iconImg": "https://i.ibb.co/yd92zJN/Imagem-3-2x.png"
+      },{
+        "id": "5ee3b246d665cc910d16e337",
+        "name":"Japa",
+        "iconImg": "https://i.ibb.co/yd92zJN/Imagem-3-2x.png"
+      },{
+        "id": "5ee3b24ea650203ebcd416f1",
+        "name":"Saudável",
+        "iconImg": "https://i.ibb.co/yd92zJN/Imagem-3-2x.png"
+      },{
+        "id": "5ee3b2587c315acff2cdc6b8",
+        "name":"Congelados",
+        "iconImg": "https://i.ibb.co/yd92zJN/Imagem-3-2x.png"
+      },{
+        "id": "5ee3b293240cf173cf4b3faf",
+        "name":"Brasileira",
+        "iconImg": "https://i.ibb.co/yd92zJN/Imagem-3-2x.png"
+      },{
+        "id": "5ee3b29b9b98cc1264b59daa",
+        "name":"Mexicano",
+        "iconImg": "https://i.ibb.co/yd92zJN/Imagem-3-2x.png"
+      },{
+        "id": "5ee3b2a07ff41ae5405e47c2",
+        "name":"Padarias",
+        "iconImg": "https://i.ibb.co/yd92zJN/Imagem-3-2x.png"
+      },{
+        "id": "5ee3b2a427de1b4ecbd36904",
+        "name":"Carnes e Grill",
+        "iconImg": "https://i.ibb.co/yd92zJN/Imagem-3-2x.png"
+      },{
+        "id": "5ee3b2ab6831a8b2415feeb6",
+        "name":"Lanches",
+        "iconImg": "https://i.ibb.co/yd92zJN/Imagem-3-2x.png"
+      },{
+        "id": "5ee3b2b05a3aa7697f3ef0bc",
+        "name":"Hot Dog",
+        "iconImg": "https://i.ibb.co/yd92zJN/Imagem-3-2x.png"
+      },{
+        "id": "5ee3b2b4f58f162367e75173",
+        "name":"Cozinha Rápida",
+        "iconImg": "https://i.ibb.co/yd92zJN/Imagem-3-2x.png"
+      },{
+        "id": "5ee3b2b9627b4f0fd1fab7c0",
+        "name":"Portuguesa",
+        "iconImg": "https://i.ibb.co/yd92zJN/Imagem-3-2x.png"
+      },{
+        "id": "5ee3b2bd8c4da93eed7e25c8",
+        "name":"FastFood",
+        "iconImg": "https://i.ibb.co/yd92zJN/Imagem-3-2x.png"
+      },{
+        "id": "5ee3b2c22f5b6455c124aa81",
+        "name":"Espetinhos",
+        "iconImg": "https://i.ibb.co/yd92zJN/Imagem-3-2x.png"
+      },{
+        "id": "5ee3b2c7b2180f5d6412a91e",
+        "name":"Hamburguers",
+        "iconImg": "https://i.ibb.co/yd92zJN/Imagem-3-2x.png"
+      },{
+        "id": "5ee3b2cc682649c7812ef36d",
+        "name":"Italiana",
+        "iconImg": "https://i.ibb.co/yd92zJN/Imagem-3-2x.png"
+      }
+    ]
+  },
+  "freights": {
+    "freights": [
+      {
+        "id": "5edfc9a3934850e2f627817c",
+        "min": 0,
+        "max": 2,
+        "value": 3
+      },
+      {
+        "id": "5edfc9a3934850e2f627817c",
+        "min": 3,
+        "max": 5,
+        "value": 5
+      },
+      {
+        "id": "5edfc9a3934850e2f627817c",
+        "min": 6,
+        "max": 8,
+        "value": 7
+      },
+      {
+        "id": "5edfc9a3934850e2f627817c",
+        "min": 8,
+        "max": 10,
+        "value": 12
+      },
+      {
+        "id": "5edfc9a3934850e2f627817c",
+        "min": 10,
+        "max": 20,
+        "value": 30
+      },
+      {
+        "id": "5edfc9a3934850e2f627817c",
+        "min": 0,
+        "max": 2,
+        "value": 3
+      },
+      {
+        "id": "5edfc9a3934850e2f627817c",
+        "min": 0,
+        "max": 2,
+        "value": 3
+      },
+      {
+        "id": "5edfc9a3934850e2f627817c",
+        "min": 0,
+        "max": 2,
+        "value": 3
+      },
+      {
+        "id": "5edfc9a3934850e2f627817c",
+        "min": 0,
+        "max": 2,
+        "value": 3
+      },
+      {
+        "id": "5edfc9a3934850e2f627817c",
+        "min": 0,
+        "max": 2,
+        "value": 3
+      }
+    ]
+  },
+  "companies": [
+    {
+      "team": [],
+      "made_orders": [],
+      "production_orders": [],
+      "dispatched_orders": [],
+      "done_orders": [],
+      "cancelled_orders": [],
+      "_id": "5e849be86e5e8e0f745620ae",
+      "company_name": "GetFood",
+      "trading_name": "Get Food",
+      "cnpj": "00000000000000",
+      "phone": "11111111",
+      "address_info": {
+        "_id": "5e849be86e5e8e0f745620af",
+        "address": "Get Adress",
+        "number": null,
+        "cep": null,
+        "comp_address": null,
+        "reference": null,
+        "lat": null,
+        "lng": null,
+        "createdAt": "2020-04-01T13:49:28.251Z",
+        "updatedAt": "2020-04-01T13:49:28.255Z",
+        "__v": 0,
+        "id": "5e849be86e5e8e0f745620af"
+      },
+      "open_hours": [
+        {
+          "_id": "5e849be86e5e8e0f745620b1",
+          "seg": true,
+          "ter": true,
+          "qua": true,
+          "qui": true,
+          "sex": true,
+          "open": "2000-01-01T13:00:00.000Z",
+          "close": "2000-01-01T23:00:00.000Z",
+          "createdAt": "2020-04-01T13:49:28.262Z",
+          "updatedAt": "2020-04-01T13:49:28.266Z",
+          "__v": 0,
+          "id": "5e849be86e5e8e0f745620b1"
+        },
+        {
+          "_id": "5e849be86e5e8e0f745620b2",
+          "sab": true,
+          "dom": true,
+          "fer": true,
+          "open": "2000-01-01T12:00:00.000Z",
+          "close": "2000-01-01T16:00:00.000Z",
+          "createdAt": "2020-04-01T13:49:28.262Z",
+          "updatedAt": "2020-04-01T13:49:28.268Z",
+          "__v": 0,
+          "id": "5e849be86e5e8e0f745620b2"
+        }
+      ],
+      "createdAt": "2020-04-01T13:49:28.246Z",
+      "updatedAt": "2020-04-01T13:49:28.531Z",
+      "__v": 2,
+      "master": {
+        "confirmed": true,
+        "blocked": false,
+        "_id": "5e849be86e5e8e0f745620b5",
+        "username": "getadmin",
+        "email": "getadmin@food.com",
+        "name": "Get Food Administrator",
+        "createdAt": "2020-04-01T13:49:28.499Z",
+        "updatedAt": "2020-04-01T13:51:11.801Z",
+        "__v": 0,
+        "role": "5e1dfa295a6b775c3c4f3320",
+        "account": "5e849be86e5e8e0f745620b6",
+        "id": "5e849be86e5e8e0f745620b5"
+      },
+      "menu_list": null,
+      "products": [
+        {
+          "_id": "5e8609f90450051e4494d4d4",
+          "name": "teste",
+          "cost": 12.9,
+          "content": [],
+          "increments": [],
+          "createdAt": "2020-04-02T15:51:21.606Z",
+          "updatedAt": "2020-04-02T16:27:22.857Z",
+          "__v": 0,
+          "company": "5e849be86e5e8e0f745620ae",
+          "value_serves": 3,
+          "picture": null,
+          "id": "5e8609f90450051e4494d4d4"
+        }
+      ],
+      "id": "5e849be86e5e8e0f745620ae"
+    }
+  ],
+  "menus": {
+    "menu_list": [
+      {
+        "products": [
+          {
+            "_id": "5e8609f90450051e4494d4d4",
+            "name": "Megazord Burger",
+            "cost": 12.9,
+            "content": [
+              {
+                "_id": "5e8728e19b10455eecb7ab7f",
+                "name": "Carne de Amburguer",
+                "amount": 2,
+                "createdAt": "2020-04-03T12:15:29.769Z",
+                "updatedAt": "2020-04-03T12:15:29.895Z",
+                "__v": 0,
+                "id": "5e8728e19b10455eecb7ab7f"
+              },
+              {
+                "_id": "5e8728e19b10455eecb7ab80",
+                "name": "Pão Bola",
+                "amount": 1,
+                "createdAt": "2020-04-03T12:15:29.769Z",
+                "updatedAt": "2020-04-03T12:15:29.893Z",
+                "__v": 0,
+                "id": "5e8728e19b10455eecb7ab80"
+              },
+              {
+                "_id": "5e8728e19b10455eecb7ab81",
+                "name": "Alface",
+                "amount": 1,
+                "createdAt": "2020-04-03T12:15:29.769Z",
+                "updatedAt": "2020-04-03T12:15:29.894Z",
+                "__v": 0,
+                "id": "5e8728e19b10455eecb7ab81"
+              },
+              {
+                "_id": "5e8728e19b10455eecb7ab82",
+                "name": "Tomate",
+                "amount": 1,
+                "createdAt": "2020-04-03T12:15:29.769Z",
+                "updatedAt": "2020-04-03T12:15:29.896Z",
+                "__v": 0,
+                "id": "5e8728e19b10455eecb7ab82"
+              },
+              {
+                "_id": "5e8728e19b10455eecb7ab83",
+                "name": "Queijo Chedar",
+                "amount": 1,
+                "createdAt": "2020-04-03T12:15:29.769Z",
+                "updatedAt": "2020-04-03T12:15:29.893Z",
+                "__v": 0,
+                "id": "5e8728e19b10455eecb7ab83"
+              },
+              {
+                "_id": "5e8728e19b10455eecb7ab84",
+                "name": "Ovos",
+                "amount": 2,
+                "createdAt": "2020-04-03T12:15:29.769Z",
+                "updatedAt": "2020-04-03T12:15:29.895Z",
+                "__v": 0,
+                "id": "5e8728e19b10455eecb7ab84"
+              }
+            ],
+            "increments": [
+              {
+                "_id": "5e8728e19b10455eecb7ab8b",
+                "name": "Ovos",
+                "description": "",
+                "price": 0.99,
+                "createdAt": "2020-04-03T12:15:29.911Z",
+                "updatedAt": "2020-04-03T12:15:30.034Z",
+                "__v": 0,
+                "id": "5e8728e19b10455eecb7ab8b"
+              },
+              {
+                "_id": "5e8728e19b10455eecb7ab8c",
+                "name": "Queijo Suíço",
+                "price": 0.99,
+                "createdAt": "2020-04-03T12:15:29.911Z",
+                "updatedAt": "2020-04-03T12:15:30.035Z",
+                "__v": 0,
+                "id": "5e8728e19b10455eecb7ab8c"
+              }
+            ],
+            "createdAt": "2020-04-02T15:51:21.606Z",
+            "updatedAt": "2020-04-03T12:26:04.453Z",
+            "__v": 0,
+            "company": "5e849be86e5e8e0f745620ae",
+            "value_serves": 3,
+            "description": "Burgão pra matar a fome dos mais ousados.",
+            "picture": null,
+            "id": "5e8609f90450051e4494d4d4"
+          }
+        ],
+        "categories": [
+          "5ee3b13db410a7a58f78a245",
+          "5ee3b246d665cc910d16e337"
+        ],
+        "_id": "5e872c6a9ea6e96440e5e535",
+        "name": "Especialidades",
+        "active": true,
+        "createdAt": "2020-04-03T12:30:35.001Z",
+        "updatedAt": "2020-04-03T12:31:45.557Z",
+        "__v": 0,
+        "id": "5e872c6a9ea6e96440e5e535"
+      },
+      {
+        "products": [
+          {
+            "_id": "5e8609f90450051e4494d4d4",
+            "name": "Megazord Burger",
+            "cost": 12.9,
+            "content": [
+              {
+                "_id": "5e8728e19b10455eecb7ab7f",
+                "name": "Carne de Amburguer",
+                "amount": 2,
+                "createdAt": "2020-04-03T12:15:29.769Z",
+                "updatedAt": "2020-04-03T12:15:29.895Z",
+                "__v": 0,
+                "id": "5e8728e19b10455eecb7ab7f"
+              },
+              {
+                "_id": "5e8728e19b10455eecb7ab80",
+                "name": "Pão Bola",
+                "amount": 1,
+                "createdAt": "2020-04-03T12:15:29.769Z",
+                "updatedAt": "2020-04-03T12:15:29.893Z",
+                "__v": 0,
+                "id": "5e8728e19b10455eecb7ab80"
+              },
+              {
+                "_id": "5e8728e19b10455eecb7ab81",
+                "name": "Alface",
+                "amount": 1,
+                "createdAt": "2020-04-03T12:15:29.769Z",
+                "updatedAt": "2020-04-03T12:15:29.894Z",
+                "__v": 0,
+                "id": "5e8728e19b10455eecb7ab81"
+              },
+              {
+                "_id": "5e8728e19b10455eecb7ab82",
+                "name": "Tomate",
+                "amount": 1,
+                "createdAt": "2020-04-03T12:15:29.769Z",
+                "updatedAt": "2020-04-03T12:15:29.896Z",
+                "__v": 0,
+                "id": "5e8728e19b10455eecb7ab82"
+              },
+              {
+                "_id": "5e8728e19b10455eecb7ab83",
+                "name": "Queijo Chedar",
+                "amount": 1,
+                "createdAt": "2020-04-03T12:15:29.769Z",
+                "updatedAt": "2020-04-03T12:15:29.893Z",
+                "__v": 0,
+                "id": "5e8728e19b10455eecb7ab83"
+              },
+              {
+                "_id": "5e8728e19b10455eecb7ab84",
+                "name": "Ovos",
+                "amount": 2,
+                "createdAt": "2020-04-03T12:15:29.769Z",
+                "updatedAt": "2020-04-03T12:15:29.895Z",
+                "__v": 0,
+                "id": "5e8728e19b10455eecb7ab84"
+              }
+            ],
+            "increments": [
+              {
+                "_id": "5e8728e19b10455eecb7ab8b",
+                "name": "Ovos",
+                "description": "",
+                "price": 0.99,
+                "createdAt": "2020-04-03T12:15:29.911Z",
+                "updatedAt": "2020-04-03T12:15:30.034Z",
+                "__v": 0,
+                "id": "5e8728e19b10455eecb7ab8b"
+              },
+              {
+                "_id": "5e8728e19b10455eecb7ab8c",
+                "name": "Queijo Suíço",
+                "price": 0.99,
+                "createdAt": "2020-04-03T12:15:29.911Z",
+                "updatedAt": "2020-04-03T12:15:30.035Z",
+                "__v": 0,
+                "id": "5e8728e19b10455eecb7ab8c"
+              }
+            ],
+            "createdAt": "2020-04-02T15:51:21.606Z",
+            "updatedAt": "2020-04-03T12:26:04.453Z",
+            "__v": 0,
+            "company": "5e849be86e5e8e0f745620ae",
+            "value_serves": 3,
+            "description": "Burgão pra matar a fome dos mais ousados.",
+            "picture": null,
+            "id": "5e8609f90450051e4494d4d4"
+          }
+        ],
+        "categories": [
+          "5ee3b24ea650203ebcd416f1",
+          "5ee3b2a07ff41ae5405e47c2"
+        ],
+        "_id": "5e872cb15f6e0e26507134ce",
+        "name": "Padaria e Confeitaria",
+        "active": true,
+        "createdAt": "2020-04-03T12:31:45.540Z",
+        "updatedAt": "2020-04-03T12:31:45.548Z",
+        "__v": 0,
+        "id": "5e872cb15f6e0e26507134ce"
+      }
+    ]
+  },
+  "orders": {
+    "orders": [
+      {
+        "warnings": [],
+        "order": {
+          "order_number": "100007",
+          "order_cost": 79.40,
+          "money_change": "",
+          "content": [
+            {
+              "amount": 1,
+              "total_price": 15.90,
+              "product": {
+                "name": "Megazord Burger",
+                "cost": 12.90,
+                "increments": [
+                  {
+                    "name": "Ovos",
+                    "description": "",
+                    "price": 1.00,
+                    "id": "5e8728e19b10455eecb7ab8b",
+                    "ammount": 1,
+                    "total_price": 1.00
+                  },
+                  {
+                    "name": "Queijo Suíço",
+                    "price": 2.00,
+                    "id": "5e8728e19b10455eecb7ab8c",
+                    "ammount": 1,
+                    "total_price": 2.00
+                  }
+                ],
+                "id": "5e8609f90450051e4494d4d4"
+              },
+              "id": "5e8cd6b0a8229f4bb89f6c4f"
+            },{
+              "amount": 1,
+              "total_price": 12.90,
+              "product": {
+                "name": "Megazord Burger",
+                "cost": 12.90,
+                "increments": [],
+                "id": "5e8609f90450051e4494d4d4"
+              },
+              "id": "5e8cd6b0a8229f4bb89f6c4f"
+            },{
+              "amount": 1,
+              "total_price": 14.90,
+              "product": {
+                "name": "Megazord Burger",
+                "cost": 12.90,
+                "increments": [
+                  {
+                    "name": "Queijo Suíço",
+                    "price": 2.00,
+                    "id": "5e8728e19b10455eecb7ab8c",
+                    "ammount": 1,
+                    "total_price": 2.00
+                  }
+                ],
+                "id": "5e8609f90450051e4494d4d4"
+              },
+              "id": "5e8cd6b0a8229f4bb89f6c4f"
+            },{
+              "amount": 1,
+              "total_price": 13.90,
+              "product": {
+                "name": "Megazord Burger",
+                "cost": 12.90,
+                "increments": [
+                  {
+                    "name": "Ovos",
+                    "description": "",
+                    "price": 1.00,
+                    "id": "5e8728e19b10455eecb7ab8b",
+                    "ammount": 1,
+                    "total_price": 1.00
+                  }
+                ],
+                "id": "5e8609f90450051e4494d4d4"
+              },
+              "id": "5e8cd6b0a8229f4bb89f6c4f"
+            },{
+              "amount": 1,
+              "total_price": 15.90,
+              "product": {
+                "name": "Megazord Burger",
+                "cost": 12.90,
+                "increments": [
+                  {
+                    "name": "Ovos",
+                    "description": "",
+                    "price": 1.00,
+                    "id": "5e8728e19b10455eecb7ab8b",
+                    "ammount": 1,
+                    "total_price": 1.00
+                  },
+                  {
+                    "name": "Queijo Suíço",
+                    "price": 2.00,
+                    "id": "5e8728e19b10455eecb7ab8c",
+                    "ammount": 1,
+                    "total_price": 2.00
+                  }
+                ],
+                "id": "5e8609f90450051e4494d4d4"
+              },
+              "id": "5e8cd6b0a8229f4bb89f6c4f"
+            },{
+              "amount": 1,
+              "total_price": 15.90,
+              "product": {
+                "name": "Megazord Burger",
+                "cost": 12.90,
+                "increments": [
+                  {
+                    "name": "Ovos",
+                    "description": "",
+                    "price": 1.00,
+                    "id": "5e8728e19b10455eecb7ab8b",
+                    "ammount": 1,
+                    "total_price": 1.00
+                  },
+                  {
+                    "name": "Queijo Suíço",
+                    "price": 2.00,
+                    "id": "5e8728e19b10455eecb7ab8c",
+                    "ammount": 1,
+                    "total_price": 2.00
+                  }
+                ],
+                "id": "5e8609f90450051e4494d4d4"
+              },
+              "id": "5e8cd6b0a8229f4bb89f6c4f"
+            }
+          ],
+          "notifications": {
+            "total": 1,
+            "items": [
+              {
+                "id": "5e8609f90450051e4494d4d4",
+                "content": "O produto vai chegar no horário?",
+                "from": {
+                  "id": "5e8609f90450051e4494d4d4",
+                  "name": "Jõao Almeida Filho",
+                  "role": "client",
+                  "picture": null
+                },
+                "createdAt": "2020-04-02T15:51:21.606Z",
+                "updatedAt": "2020-04-03T12:38:11.271Z"
+              }
+            ]
+          },
+          "deliver": {
+            "address": "Rua João Paulo XII",
+            "number": 658,
+            "neighborhood": "Centro",
+            "city": "Belo Horizonte",
+            "state": "MG",
+            "cep": "0000000",
+            "comp_address": "Apto. 1006",
+            "reference": "Perto do mercadinho.",
+            "id": "5e8cd6b0a8229f4bb89f6c51"
+          },
+          "createdAt": "2020-04-07T19:38:24.832Z",
+          "updatedAt": "2020-04-07T19:38:24.865Z",
+          "__v": 2,
+          "company": {
+            "trading_name": "Get Food",         
+            "id": "5e849be86e5e8e0f745620ae",
+            "picture": "https://s3.amazonaws.com/thumbnails.venngage.com/template/9f596769-790d-4b5f-bb80-668016a9c920.png"
+          },
+          "from": {
+            "id": "5e8c908b4eb7587324c3d80e",
+            "name": "Marcelo Brandão",
+            "image": "https://barefootmedia.co.uk/wp-content/uploads/2016/01/Chris-user-profile.jpg",
+            "phone": "(31)98745-9877"
+          },
+          "payment_method": {
+            "method": "credit",
+            "label": "Crédito",
+            "id": "5e1cf9aee05f8e556480da2c"
+          },
+          "status": {
+            "label": "Realizada",
+            "name": "made",
+            "id": "5e1cd32e34bf3846601c8293"
+          },
+          "id": "5e8cd6b0a8229f4bb89f6c4e"
+        }
+      },{
+        "warnings": [],
+        "order": {
+          "_id": "5e8cd6b0a8229f4bb89f6c4e",
+          "order_number": "100008",
+          "order_cost": 12.9,
+          "money_change": "",
+          "content": [
+            {
+              "amount": 1,
+              "total_price": 15.90,
+              "product": {
+                "name": "Megazord Burger",
+                "cost": 12.90,
+                "increments": [
+                  {
+                    "name": "Ovos",
+                    "description": "",
+                    "price": 1.00,
+                    "id": "5e8728e19b10455eecb7ab8b",
+                    "ammount": 1,
+                    "total_price": 1.00
+                  },
+                  {
+                    "name": "Queijo Suíço",
+                    "price": 2.00,
+                    "id": "5e8728e19b10455eecb7ab8c",
+                    "ammount": 1,
+                    "total_price": 2.00
+                  }
+                ],
+                "id": "5e8609f90450051e4494d4d4"
+              },
+              "id": "5e8cd6b0a8229f4bb89f6c4f"
+            },{
+              "amount": 1,
+              "total_price": 12.90,
+              "product": {
+                "name": "Megazord Burger",
+                "cost": 12.90,
+                "increments": [],
+                "id": "5e8609f90450051e4494d4d4"
+              },
+              "id": "5e8cd6b0a8229f4bb89f6c4f"
+            },{
+              "amount": 1,
+              "total_price": 14.90,
+              "product": {
+                "name": "Megazord Burger",
+                "cost": 12.90,
+                "increments": [
+                  {
+                    "name": "Queijo Suíço",
+                    "price": 2.00,
+                    "id": "5e8728e19b10455eecb7ab8c",
+                    "ammount": 1,
+                    "total_price": 2.00
+                  }
+                ],
+                "id": "5e8609f90450051e4494d4d4"
+              },
+              "id": "5e8cd6b0a8229f4bb89f6c4f"
+            },{
+              "amount": 1,
+              "total_price": 13.90,
+              "product": {
+                "name": "Megazord Burger",
+                "cost": 12.90,
+                "increments": [
+                  {
+                    "name": "Ovos",
+                    "description": "",
+                    "price": 1.00,
+                    "id": "5e8728e19b10455eecb7ab8b",
+                    "ammount": 1,
+                    "total_price": 1.00
+                  }
+                ],
+                "id": "5e8609f90450051e4494d4d4"
+              },
+              "id": "5e8cd6b0a8229f4bb89f6c4f"
+            },{
+              "amount": 1,
+              "total_price": 15.90,
+              "product": {
+                "name": "Megazord Burger",
+                "cost": 12.90,
+                "increments": [
+                  {
+                    "name": "Ovos",
+                    "description": "",
+                    "price": 1.00,
+                    "id": "5e8728e19b10455eecb7ab8b",
+                    "ammount": 1,
+                    "total_price": 1.00
+                  },
+                  {
+                    "name": "Queijo Suíço",
+                    "price": 2.00,
+                    "id": "5e8728e19b10455eecb7ab8c",
+                    "ammount": 1,
+                    "total_price": 2.00
+                  }
+                ],
+                "id": "5e8609f90450051e4494d4d4"
+              },
+              "id": "5e8cd6b0a8229f4bb89f6c4f"
+            },{
+              "amount": 1,
+              "total_price": 15.90,
+              "product": {
+                "name": "Megazord Burger",
+                "cost": 12.90,
+                "increments": [
+                  {
+                    "name": "Ovos",
+                    "description": "",
+                    "price": 1.00,
+                    "id": "5e8728e19b10455eecb7ab8b",
+                    "ammount": 1,
+                    "total_price": 1.00
+                  },
+                  {
+                    "name": "Queijo Suíço",
+                    "price": 2.00,
+                    "id": "5e8728e19b10455eecb7ab8c",
+                    "ammount": 1,
+                    "total_price": 2.00
+                  }
+                ],
+                "id": "5e8609f90450051e4494d4d4"
+              },
+              "id": "5e8cd6b0a8229f4bb89f6c4f"
+            }
+          ],
+          "notifications": {
+            "total": 1,
+            "items": [
+              {
+                "id": "5e8609f90450051e4494d4d4",
+                "content": "O produto vai chegar no horário?",
+                "from": {
+                  "id": "5e8609f90450051e4494d4d4",
+                  "name": "Jõao Almeida Filho",
+                  "role": "client",
+                  "picture": null
+                },
+                "createdAt": "2020-04-02T15:51:21.606Z",
+                "updatedAt": "2020-04-03T12:38:11.271Z"
+              }
+            ]
+          },
+          "deliver": {
+            "_id": "5e8cd6b0a8229f4bb89f6c51",
+            "address": "Rua João Paulo XII",
+            "number": 658,
+            "neighborhood": "Centro",
+            "city": "Belo Horizonte",
+            "state": "MG",
+            "cep": "0000000",
+            "comp_address": "Apto. 1006",
+            "reference": "Perto do mercadinho.",
+            "id": "5e8cd6b0a8229f4bb89f6c51"
+          },
+          "createdAt": "2020-04-07T19:38:24.832Z",
+          "updatedAt": "2020-04-07T19:38:24.865Z",
+          "__v": 2,
+          "company": {
+            "_id": "5e849be86e5e8e0f745620ae",
+            "trading_name": "Get Food",         
+            "id": "5e849be86e5e8e0f745620ae",
+            "picture": "https://s3.amazonaws.com/thumbnails.venngage.com/template/9f596769-790d-4b5f-bb80-668016a9c920.png"
+          },
+          "from": {
+            "_id": "5e8c908b4eb7587324c3d80e",
+            "id": "5e8c908b4eb7587324c3d80e",
+            "image": "https://barefootmedia.co.uk/wp-content/uploads/2016/01/Chris-user-profile.jpg",
+            "name": "Marcelo Brandão",
+            "phone": "(31)98745-9877"
+          },
+          "payment_method": {
+            "_id": "5e1cf9aee05f8e556480da2c",
+            "method": "credit",
+            "label": "Crédito",
+            "id": "5e1cf9aee05f8e556480da2c"
+          },
+          "status": {
+            "_id": "5e1cd32e34bf3846601c8293",
+            "label": "Realizada",
+            "name": "made",
+            "id": "5e1cd32e34bf3846601c8293"
+          },
+          "id": "5e8cd6b0a8229f4bb89f6c4e"
+        }
+      },{
+        "warnings": [],
+        "order": {
+          "_id": "5e8cd6b0a8229f4bb89f6c4e",
+          "order_number": "100009",
+          "order_cost": 12.9,
+          "money_change": "",
+          "content": [
+            {
+              "amount": 1,
+              "total_price": 15.90,
+              "product": {
+                "name": "Megazord Burger",
+                "cost": 12.90,
+                "increments": [
+                  {
+                    "name": "Ovos",
+                    "description": "",
+                    "price": 1.00,
+                    "id": "5e8728e19b10455eecb7ab8b",
+                    "ammount": 1,
+                    "total_price": 1.00
+                  },
+                  {
+                    "name": "Queijo Suíço",
+                    "price": 2.00,
+                    "id": "5e8728e19b10455eecb7ab8c",
+                    "ammount": 1,
+                    "total_price": 2.00
+                  }
+                ],
+                "id": "5e8609f90450051e4494d4d4"
+              },
+              "id": "5e8cd6b0a8229f4bb89f6c4f"
+            },{
+              "amount": 1,
+              "total_price": 12.90,
+              "product": {
+                "name": "Megazord Burger",
+                "cost": 12.90,
+                "increments": [],
+                "id": "5e8609f90450051e4494d4d4"
+              },
+              "id": "5e8cd6b0a8229f4bb89f6c4f"
+            },{
+              "amount": 1,
+              "total_price": 14.90,
+              "product": {
+                "name": "Megazord Burger",
+                "cost": 12.90,
+                "increments": [
+                  {
+                    "name": "Queijo Suíço",
+                    "price": 2.00,
+                    "id": "5e8728e19b10455eecb7ab8c",
+                    "ammount": 1,
+                    "total_price": 2.00
+                  }
+                ],
+                "id": "5e8609f90450051e4494d4d4"
+              },
+              "id": "5e8cd6b0a8229f4bb89f6c4f"
+            },{
+              "amount": 1,
+              "total_price": 13.90,
+              "product": {
+                "name": "Megazord Burger",
+                "cost": 12.90,
+                "increments": [
+                  {
+                    "name": "Ovos",
+                    "description": "",
+                    "price": 1.00,
+                    "id": "5e8728e19b10455eecb7ab8b",
+                    "ammount": 1,
+                    "total_price": 1.00
+                  }
+                ],
+                "id": "5e8609f90450051e4494d4d4"
+              },
+              "id": "5e8cd6b0a8229f4bb89f6c4f"
+            },{
+              "amount": 1,
+              "total_price": 15.90,
+              "product": {
+                "name": "Megazord Burger",
+                "cost": 12.90,
+                "increments": [
+                  {
+                    "name": "Ovos",
+                    "description": "",
+                    "price": 1.00,
+                    "id": "5e8728e19b10455eecb7ab8b",
+                    "ammount": 1,
+                    "total_price": 1.00
+                  },
+                  {
+                    "name": "Queijo Suíço",
+                    "price": 2.00,
+                    "id": "5e8728e19b10455eecb7ab8c",
+                    "ammount": 1,
+                    "total_price": 2.00
+                  }
+                ],
+                "id": "5e8609f90450051e4494d4d4"
+              },
+              "id": "5e8cd6b0a8229f4bb89f6c4f"
+            },{
+              "amount": 1,
+              "total_price": 15.90,
+              "product": {
+                "name": "Megazord Burger",
+                "cost": 12.90,
+                "increments": [
+                  {
+                    "name": "Ovos",
+                    "description": "",
+                    "price": 1.00,
+                    "id": "5e8728e19b10455eecb7ab8b",
+                    "ammount": 1,
+                    "total_price": 1.00
+                  },
+                  {
+                    "name": "Queijo Suíço",
+                    "price": 2.00,
+                    "id": "5e8728e19b10455eecb7ab8c",
+                    "ammount": 1,
+                    "total_price": 2.00
+                  }
+                ],
+                "id": "5e8609f90450051e4494d4d4"
+              },
+              "id": "5e8cd6b0a8229f4bb89f6c4f"
+            }
+          ],
+          "notifications": {
+            "total": 1,
+            "items": [
+              {
+                "id": "5e8609f90450051e4494d4d4",
+                "content": "O produto vai chegar no horário?",
+                "from": {
+                  "id": "5e8609f90450051e4494d4d4",
+                  "name": "Jõao Almeida Filho",
+                  "role": "client",
+                  "picture": null
+                },
+                "createdAt": "2020-04-02T15:51:21.606Z",
+                "updatedAt": "2020-04-03T12:38:11.271Z"
+              }
+            ]
+          },
+          "deliver": {
+            "_id": "5e8cd6b0a8229f4bb89f6c51",
+            "address": "Rua João Paulo XII",
+            "number": 658,
+            "neighborhood": "Centro",
+            "city": "Belo Horizonte",
+            "state": "MG",
+            "cep": "0000000",
+            "comp_address": "Apto. 1006",
+            "reference": "Perto do mercadinho.",
+            "id": "5e8cd6b0a8229f4bb89f6c51"
+          },
+          "createdAt": "2020-04-07T19:38:24.832Z",
+          "updatedAt": "2020-04-07T19:38:24.865Z",
+          "__v": 2,
+          "company": {
+            "_id": "5e849be86e5e8e0f745620ae",
+            "trading_name": "Get Food",         
+            "id": "5e849be86e5e8e0f745620ae",
+            "picture": "https://s3.amazonaws.com/thumbnails.venngage.com/template/9f596769-790d-4b5f-bb80-668016a9c920.png"
+          },
+          "from": {
+            "_id": "5e8c908b4eb7587324c3d80e",
+            "id": "5e8c908b4eb7587324c3d80e",
+            "name": "Marcelo Brandão",
+            "image": "https://barefootmedia.co.uk/wp-content/uploads/2016/01/Chris-user-profile.jpg",
+            "phone": "(31)98745-9877"
+          },
+          "payment_method": {
+            "_id": "5e1cf9aee05f8e556480da2c",
+            "method": "credit",
+            "label": "Crédito",
+            "id": "5e1cf9aee05f8e556480da2c"
+          },
+          "status": {
+            "_id": "5e1cd32e34bf3846601c8293",
+            "label": "Realizada",
+            "name": "made",
+            "id": "5e1cd32e34bf3846601c8293"
+          },
+          "id": "5e8cd6b0a8229f4bb89f6c4e"
+        }
+      },{
+        "warnings": [],
+        "order": {
+          "_id": "5e8cd6b0a8229f4bb89f6c4e",
+          "order_number": "100007",
+          "order_cost": 12.9,
+          "money_change": "",
+          "content": [
+            {
+              "amount": 1,
+              "total_price": 15.90,
+              "product": {
+                "name": "Megazord Burger",
+                "cost": 12.90,
+                "increments": [
+                  {
+                    "name": "Ovos",
+                    "description": "",
+                    "price": 1.00,
+                    "id": "5e8728e19b10455eecb7ab8b",
+                    "ammount": 1,
+                    "total_price": 1.00
+                  },
+                  {
+                    "name": "Queijo Suíço",
+                    "price": 2.00,
+                    "id": "5e8728e19b10455eecb7ab8c",
+                    "ammount": 1,
+                    "total_price": 2.00
+                  }
+                ],
+                "id": "5e8609f90450051e4494d4d4"
+              },
+              "id": "5e8cd6b0a8229f4bb89f6c4f"
+            },{
+              "amount": 1,
+              "total_price": 12.90,
+              "product": {
+                "name": "Megazord Burger",
+                "cost": 12.90,
+                "increments": [],
+                "id": "5e8609f90450051e4494d4d4"
+              },
+              "id": "5e8cd6b0a8229f4bb89f6c4f"
+            },{
+              "amount": 1,
+              "total_price": 14.90,
+              "product": {
+                "name": "Megazord Burger",
+                "cost": 12.90,
+                "increments": [
+                  {
+                    "name": "Queijo Suíço",
+                    "price": 2.00,
+                    "id": "5e8728e19b10455eecb7ab8c",
+                    "ammount": 1,
+                    "total_price": 2.00
+                  }
+                ],
+                "id": "5e8609f90450051e4494d4d4"
+              },
+              "id": "5e8cd6b0a8229f4bb89f6c4f"
+            },{
+              "amount": 1,
+              "total_price": 13.90,
+              "product": {
+                "name": "Megazord Burger",
+                "cost": 12.90,
+                "increments": [
+                  {
+                    "name": "Ovos",
+                    "description": "",
+                    "price": 1.00,
+                    "id": "5e8728e19b10455eecb7ab8b",
+                    "ammount": 1,
+                    "total_price": 1.00
+                  }
+                ],
+                "id": "5e8609f90450051e4494d4d4"
+              },
+              "id": "5e8cd6b0a8229f4bb89f6c4f"
+            },{
+              "amount": 1,
+              "total_price": 15.90,
+              "product": {
+                "name": "Megazord Burger",
+                "cost": 12.90,
+                "increments": [
+                  {
+                    "name": "Ovos",
+                    "description": "",
+                    "price": 1.00,
+                    "id": "5e8728e19b10455eecb7ab8b",
+                    "ammount": 1,
+                    "total_price": 1.00
+                  },
+                  {
+                    "name": "Queijo Suíço",
+                    "price": 2.00,
+                    "id": "5e8728e19b10455eecb7ab8c",
+                    "ammount": 1,
+                    "total_price": 2.00
+                  }
+                ],
+                "id": "5e8609f90450051e4494d4d4"
+              },
+              "id": "5e8cd6b0a8229f4bb89f6c4f"
+            },{
+              "amount": 1,
+              "total_price": 15.90,
+              "product": {
+                "name": "Megazord Burger",
+                "cost": 12.90,
+                "increments": [
+                  {
+                    "name": "Ovos",
+                    "description": "",
+                    "price": 1.00,
+                    "id": "5e8728e19b10455eecb7ab8b",
+                    "ammount": 1,
+                    "total_price": 1.00
+                  },
+                  {
+                    "name": "Queijo Suíço",
+                    "price": 2.00,
+                    "id": "5e8728e19b10455eecb7ab8c",
+                    "ammount": 1,
+                    "total_price": 2.00
+                  }
+                ],
+                "id": "5e8609f90450051e4494d4d4"
+              },
+              "id": "5e8cd6b0a8229f4bb89f6c4f"
+            }
+          ],
+          "notifications": {
+            "total": 1,
+            "items": [
+              {
+                "id": "5e8609f90450051e4494d4d4",
+                "content": "O produto vai chegar no horário?",
+                "from": {
+                  "id": "5e8609f90450051e4494d4d4",
+                  "name": "Jõao Almeida Filho",
+                  "role": "client",
+                  "picture": null
+                },
+                "createdAt": "2020-04-02T15:51:21.606Z",
+                "updatedAt": "2020-04-03T12:38:11.271Z"
+              }
+            ]
+          },
+          "deliver": {
+            "_id": "5e8cd6b0a8229f4bb89f6c51",
+            "address": "Rua João Paulo XII",
+            "number": 658,
+            "neighborhood": "Centro",
+            "city": "Belo Horizonte",
+            "state": "MG",
+            "cep": "0000000",
+            "comp_address": "Apto. 1006",
+            "reference": "Perto do mercadinho.",
+            "id": "5e8cd6b0a8229f4bb89f6c51"
+          },
+          "createdAt": "2020-04-07T19:38:24.832Z",
+          "updatedAt": "2020-04-07T19:38:24.865Z",
+          "__v": 2,
+          "company": {
+            "_id": "5e849be86e5e8e0f745620ae",
+            "trading_name": "Get Food",         
+            "id": "5e849be86e5e8e0f745620ae",
+            "picture": "https://s3.amazonaws.com/thumbnails.venngage.com/template/9f596769-790d-4b5f-bb80-668016a9c920.png"
+          },
+          "from": {
+            "_id": "5e8c908b4eb7587324c3d80e",
+            "id": "5e8c908b4eb7587324c3d80e",
+            "name": "Marcelo Brandão",
+            "image": "https://barefootmedia.co.uk/wp-content/uploads/2016/01/Chris-user-profile.jpg",
+            "phone": "(31)98745-9877"
+          },
+          "payment_method": {
+            "_id": "5e1cf9aee05f8e556480da2c",
+            "method": "credit",
+            "label": "Crédito",
+            "id": "5e1cf9aee05f8e556480da2c"
+          },
+          "status": {
+            "_id": "5e1cd32e34bf3846601c8293",
+            "label": "Em Produção",
+            "name": "production",
+            "id": "5e1cd32e34bf3846601c8293"
+          },
+          "id": "5e8cd6b0a8229f4bb89f6c4e"
+        }
+      },{
+        "warnings": [],
+        "order": {
+          "_id": "5e8cd6b0a8229f4bb89f6c4e",
+          "order_number": "100007",
+          "order_cost": 12.9,
+          "money_change": "",
+          "content": [
+            {
+              "amount": 1,
+              "total_price": 15.90,
+              "product": {
+                "name": "Megazord Burger",
+                "cost": 12.90,
+                "increments": [
+                  {
+                    "name": "Ovos",
+                    "description": "",
+                    "price": 1.00,
+                    "id": "5e8728e19b10455eecb7ab8b",
+                    "ammount": 1,
+                    "total_price": 1.00
+                  },
+                  {
+                    "name": "Queijo Suíço",
+                    "price": 2.00,
+                    "id": "5e8728e19b10455eecb7ab8c",
+                    "ammount": 1,
+                    "total_price": 2.00
+                  }
+                ],
+                "id": "5e8609f90450051e4494d4d4"
+              },
+              "id": "5e8cd6b0a8229f4bb89f6c4f"
+            },{
+              "amount": 1,
+              "total_price": 12.90,
+              "product": {
+                "name": "Megazord Burger",
+                "cost": 12.90,
+                "increments": [],
+                "id": "5e8609f90450051e4494d4d4"
+              },
+              "id": "5e8cd6b0a8229f4bb89f6c4f"
+            },{
+              "amount": 1,
+              "total_price": 14.90,
+              "product": {
+                "name": "Megazord Burger",
+                "cost": 12.90,
+                "increments": [
+                  {
+                    "name": "Queijo Suíço",
+                    "price": 2.00,
+                    "id": "5e8728e19b10455eecb7ab8c",
+                    "ammount": 1,
+                    "total_price": 2.00
+                  }
+                ],
+                "id": "5e8609f90450051e4494d4d4"
+              },
+              "id": "5e8cd6b0a8229f4bb89f6c4f"
+            },{
+              "amount": 1,
+              "total_price": 13.90,
+              "product": {
+                "name": "Megazord Burger",
+                "cost": 12.90,
+                "increments": [
+                  {
+                    "name": "Ovos",
+                    "description": "",
+                    "price": 1.00,
+                    "id": "5e8728e19b10455eecb7ab8b",
+                    "ammount": 1,
+                    "total_price": 1.00
+                  }
+                ],
+                "id": "5e8609f90450051e4494d4d4"
+              },
+              "id": "5e8cd6b0a8229f4bb89f6c4f"
+            },{
+              "amount": 1,
+              "total_price": 15.90,
+              "product": {
+                "name": "Megazord Burger",
+                "cost": 12.90,
+                "increments": [
+                  {
+                    "name": "Ovos",
+                    "description": "",
+                    "price": 1.00,
+                    "id": "5e8728e19b10455eecb7ab8b",
+                    "ammount": 1,
+                    "total_price": 1.00
+                  },
+                  {
+                    "name": "Queijo Suíço",
+                    "price": 2.00,
+                    "id": "5e8728e19b10455eecb7ab8c",
+                    "ammount": 1,
+                    "total_price": 2.00
+                  }
+                ],
+                "id": "5e8609f90450051e4494d4d4"
+              },
+              "id": "5e8cd6b0a8229f4bb89f6c4f"
+            },{
+              "amount": 1,
+              "total_price": 15.90,
+              "product": {
+                "name": "Megazord Burger",
+                "cost": 12.90,
+                "increments": [
+                  {
+                    "name": "Ovos",
+                    "description": "",
+                    "price": 1.00,
+                    "id": "5e8728e19b10455eecb7ab8b",
+                    "ammount": 1,
+                    "total_price": 1.00
+                  },
+                  {
+                    "name": "Queijo Suíço",
+                    "price": 2.00,
+                    "id": "5e8728e19b10455eecb7ab8c",
+                    "ammount": 1,
+                    "total_price": 2.00
+                  }
+                ],
+                "id": "5e8609f90450051e4494d4d4"
+              },
+              "id": "5e8cd6b0a8229f4bb89f6c4f"
+            }
+          ],
+          "notifications": {
+            "total": 1,
+            "items": [
+              {
+                "id": "5e8609f90450051e4494d4d4",
+                "content": "O produto vai chegar no horário?",
+                "from": {
+                  "id": "5e8609f90450051e4494d4d4",
+                  "name": "Jõao Almeida Filho",
+                  "role": "client",
+                  "picture": null
+                },
+                "createdAt": "2020-04-02T15:51:21.606Z",
+                "updatedAt": "2020-04-03T12:38:11.271Z"
+              }
+            ]
+          },
+          "deliver": {
+            "_id": "5e8cd6b0a8229f4bb89f6c51",
+            "address": "Rua João Paulo XII",
+            "number": 658,
+            "neighborhood": "Centro",
+            "city": "Belo Horizonte",
+            "state": "MG",
+            "cep": "0000000",
+            "comp_address": "Apto. 1006",
+            "reference": "Perto do mercadinho.",
+            "id": "5e8cd6b0a8229f4bb89f6c51"
+          },
+          "createdAt": "2020-04-07T19:38:24.832Z",
+          "updatedAt": "2020-04-07T19:38:24.865Z",
+          "__v": 2,
+          "company": {
+            "_id": "5e849be86e5e8e0f745620ae",
+            "trading_name": "Get Food",         
+            "id": "5e849be86e5e8e0f745620ae",
+            "picture": "https://s3.amazonaws.com/thumbnails.venngage.com/template/9f596769-790d-4b5f-bb80-668016a9c920.png"
+          },
+          "from": {
+            "_id": "5e8c908b4eb7587324c3d80e",
+            "id": "5e8c908b4eb7587324c3d80e",
+            "name": "Marcelo Brandão",
+            "image": "https://barefootmedia.co.uk/wp-content/uploads/2016/01/Chris-user-profile.jpg",
+            "phone": "(31)98745-9877"
+          },
+          "payment_method": {
+            "_id": "5e1cf9aee05f8e556480da2c",
+            "method": "credit",
+            "label": "Crédito",
+            "id": "5e1cf9aee05f8e556480da2c"
+          },
+          "status": {
+            "_id": "5e1cd32e34bf3846601c8293",
+            "label": "Em Produção",
+            "name": "production",
+            "id": "5e1cd32e34bf3846601c8293"
+          },
+          "id": "5e8cd6b0a8229f4bb89f6c4e"
+        }
+      },{
+        "warnings": [],
+        "order": {
+          "_id": "5e8cd6b0a8229f4bb89f6c4e",
+          "order_number": "100007",
+          "order_cost": 12.9,
+          "money_change": "",
+          "content": [
+            {
+              "amount": 1,
+              "total_price": 15.90,
+              "product": {
+                "name": "Megazord Burger",
+                "cost": 12.90,
+                "increments": [
+                  {
+                    "name": "Ovos",
+                    "description": "",
+                    "price": 1.00,
+                    "id": "5e8728e19b10455eecb7ab8b",
+                    "ammount": 1,
+                    "total_price": 1.00
+                  },
+                  {
+                    "name": "Queijo Suíço",
+                    "price": 2.00,
+                    "id": "5e8728e19b10455eecb7ab8c",
+                    "ammount": 1,
+                    "total_price": 2.00
+                  }
+                ],
+                "id": "5e8609f90450051e4494d4d4"
+              },
+              "id": "5e8cd6b0a8229f4bb89f6c4f"
+            },{
+              "amount": 1,
+              "total_price": 12.90,
+              "product": {
+                "name": "Megazord Burger",
+                "cost": 12.90,
+                "increments": [],
+                "id": "5e8609f90450051e4494d4d4"
+              },
+              "id": "5e8cd6b0a8229f4bb89f6c4f"
+            },{
+              "amount": 1,
+              "total_price": 14.90,
+              "product": {
+                "name": "Megazord Burger",
+                "cost": 12.90,
+                "increments": [
+                  {
+                    "name": "Queijo Suíço",
+                    "price": 2.00,
+                    "id": "5e8728e19b10455eecb7ab8c",
+                    "ammount": 1,
+                    "total_price": 2.00
+                  }
+                ],
+                "id": "5e8609f90450051e4494d4d4"
+              },
+              "id": "5e8cd6b0a8229f4bb89f6c4f"
+            },{
+              "amount": 1,
+              "total_price": 13.90,
+              "product": {
+                "name": "Megazord Burger",
+                "cost": 12.90,
+                "increments": [
+                  {
+                    "name": "Ovos",
+                    "description": "",
+                    "price": 1.00,
+                    "id": "5e8728e19b10455eecb7ab8b",
+                    "ammount": 1,
+                    "total_price": 1.00
+                  }
+                ],
+                "id": "5e8609f90450051e4494d4d4"
+              },
+              "id": "5e8cd6b0a8229f4bb89f6c4f"
+            },{
+              "amount": 1,
+              "total_price": 15.90,
+              "product": {
+                "name": "Megazord Burger",
+                "cost": 12.90,
+                "increments": [
+                  {
+                    "name": "Ovos",
+                    "description": "",
+                    "price": 1.00,
+                    "id": "5e8728e19b10455eecb7ab8b",
+                    "ammount": 1,
+                    "total_price": 1.00
+                  },
+                  {
+                    "name": "Queijo Suíço",
+                    "price": 2.00,
+                    "id": "5e8728e19b10455eecb7ab8c",
+                    "ammount": 1,
+                    "total_price": 2.00
+                  }
+                ],
+                "id": "5e8609f90450051e4494d4d4"
+              },
+              "id": "5e8cd6b0a8229f4bb89f6c4f"
+            },{
+              "amount": 1,
+              "total_price": 15.90,
+              "product": {
+                "name": "Megazord Burger",
+                "cost": 12.90,
+                "increments": [
+                  {
+                    "name": "Ovos",
+                    "description": "",
+                    "price": 1.00,
+                    "id": "5e8728e19b10455eecb7ab8b",
+                    "ammount": 1,
+                    "total_price": 1.00
+                  },
+                  {
+                    "name": "Queijo Suíço",
+                    "price": 2.00,
+                    "id": "5e8728e19b10455eecb7ab8c",
+                    "ammount": 1,
+                    "total_price": 2.00
+                  }
+                ],
+                "id": "5e8609f90450051e4494d4d4"
+              },
+              "id": "5e8cd6b0a8229f4bb89f6c4f"
+            }
+          ],
+          "notifications": {
+            "total": 1,
+            "items": [
+              {
+                "id": "5e8609f90450051e4494d4d4",
+                "content": "O produto vai chegar no horário?",
+                "from": {
+                  "id": "5e8609f90450051e4494d4d4",
+                  "name": "Jõao Almeida Filho",
+                  "role": "client",
+                  "picture": null
+                },
+                "createdAt": "2020-04-02T15:51:21.606Z",
+                "updatedAt": "2020-04-03T12:38:11.271Z"
+              }
+            ]
+          },
+          "deliver": {
+            "_id": "5e8cd6b0a8229f4bb89f6c51",
+            "address": "Rua João Paulo XII",
+            "number": 658,
+            "neighborhood": "Centro",
+            "city": "Belo Horizonte",
+            "state": "MG",
+            "cep": "0000000",
+            "comp_address": "Apto. 1006",
+            "reference": "Perto do mercadinho.",
+            "id": "5e8cd6b0a8229f4bb89f6c51"
+          },
+          "createdAt": "2020-04-07T19:38:24.832Z",
+          "updatedAt": "2020-04-07T19:38:24.865Z",
+          "__v": 2,
+          "company": {
+            "_id": "5e849be86e5e8e0f745620ae",
+            "trading_name": "Get Food",         
+            "id": "5e849be86e5e8e0f745620ae",
+            "picture": "https://s3.amazonaws.com/thumbnails.venngage.com/template/9f596769-790d-4b5f-bb80-668016a9c920.png"
+          },
+          "from": {
+            "_id": "5e8c908b4eb7587324c3d80e",
+            "id": "5e8c908b4eb7587324c3d80e",
+            "name": "Marcelo Brandão",
+            "image": "https://barefootmedia.co.uk/wp-content/uploads/2016/01/Chris-user-profile.jpg",
+            "phone": "(31)98745-9877"
+          },
+          "payment_method": {
+            "_id": "5e1cf9aee05f8e556480da2c",
+            "method": "credit",
+            "label": "Crédito",
+            "id": "5e1cf9aee05f8e556480da2c"
+          },
+          "status": {
+            "_id": "5e1cd32e34bf3846601c8293",
+            "label": "Saiu Para Entregar",
+            "name": "dispatched",
+            "id": "5e1cd32e34bf3846601c8293"
+          },
+          "id": "5e8cd6b0a8229f4bb89f6c4e"
+        }
+      },{
+        "warnings": [],
+        "order": {
+          "_id": "5e8cd6b0a8229f4bb89f6c4e",
+          "order_number": "100007",
+          "order_cost": 12.9,
+          "money_change": "",
+          "content": [
+            {
+              "amount": 1,
+              "total_price": 15.90,
+              "product": {
+                "name": "Megazord Burger",
+                "cost": 12.90,
+                "increments": [
+                  {
+                    "name": "Ovos",
+                    "description": "",
+                    "price": 1.00,
+                    "id": "5e8728e19b10455eecb7ab8b",
+                    "ammount": 1,
+                    "total_price": 1.00
+                  },
+                  {
+                    "name": "Queijo Suíço",
+                    "price": 2.00,
+                    "id": "5e8728e19b10455eecb7ab8c",
+                    "ammount": 1,
+                    "total_price": 2.00
+                  }
+                ],
+                "id": "5e8609f90450051e4494d4d4"
+              },
+              "id": "5e8cd6b0a8229f4bb89f6c4f"
+            },{
+              "amount": 1,
+              "total_price": 12.90,
+              "product": {
+                "name": "Megazord Burger",
+                "cost": 12.90,
+                "increments": [],
+                "id": "5e8609f90450051e4494d4d4"
+              },
+              "id": "5e8cd6b0a8229f4bb89f6c4f"
+            },{
+              "amount": 1,
+              "total_price": 14.90,
+              "product": {
+                "name": "Megazord Burger",
+                "cost": 12.90,
+                "increments": [
+                  {
+                    "name": "Queijo Suíço",
+                    "price": 2.00,
+                    "id": "5e8728e19b10455eecb7ab8c",
+                    "ammount": 1,
+                    "total_price": 2.00
+                  }
+                ],
+                "id": "5e8609f90450051e4494d4d4"
+              },
+              "id": "5e8cd6b0a8229f4bb89f6c4f"
+            },{
+              "amount": 1,
+              "total_price": 13.90,
+              "product": {
+                "name": "Megazord Burger",
+                "cost": 12.90,
+                "increments": [
+                  {
+                    "name": "Ovos",
+                    "description": "",
+                    "price": 1.00,
+                    "id": "5e8728e19b10455eecb7ab8b",
+                    "ammount": 1,
+                    "total_price": 1.00
+                  }
+                ],
+                "id": "5e8609f90450051e4494d4d4"
+              },
+              "id": "5e8cd6b0a8229f4bb89f6c4f"
+            },{
+              "amount": 1,
+              "total_price": 15.90,
+              "product": {
+                "name": "Megazord Burger",
+                "cost": 12.90,
+                "increments": [
+                  {
+                    "name": "Ovos",
+                    "description": "",
+                    "price": 1.00,
+                    "id": "5e8728e19b10455eecb7ab8b",
+                    "ammount": 1,
+                    "total_price": 1.00
+                  },
+                  {
+                    "name": "Queijo Suíço",
+                    "price": 2.00,
+                    "id": "5e8728e19b10455eecb7ab8c",
+                    "ammount": 1,
+                    "total_price": 2.00
+                  }
+                ],
+                "id": "5e8609f90450051e4494d4d4"
+              },
+              "id": "5e8cd6b0a8229f4bb89f6c4f"
+            },{
+              "amount": 1,
+              "total_price": 15.90,
+              "product": {
+                "name": "Megazord Burger",
+                "cost": 12.90,
+                "increments": [
+                  {
+                    "name": "Ovos",
+                    "description": "",
+                    "price": 1.00,
+                    "id": "5e8728e19b10455eecb7ab8b",
+                    "ammount": 1,
+                    "total_price": 1.00
+                  },
+                  {
+                    "name": "Queijo Suíço",
+                    "price": 2.00,
+                    "id": "5e8728e19b10455eecb7ab8c",
+                    "ammount": 1,
+                    "total_price": 2.00
+                  }
+                ],
+                "id": "5e8609f90450051e4494d4d4"
+              },
+              "id": "5e8cd6b0a8229f4bb89f6c4f"
+            }
+          ],
+          "notifications": {
+            "total": 1,
+            "items": [
+              {
+                "id": "5e8609f90450051e4494d4d4",
+                "content": "O produto vai chegar no horário?",
+                "from": {
+                  "id": "5e8609f90450051e4494d4d4",
+                  "name": "Jõao Almeida Filho",
+                  "role": "client",
+                  "picture": null
+                },
+                "createdAt": "2020-04-02T15:51:21.606Z",
+                "updatedAt": "2020-04-03T12:38:11.271Z"
+              }
+            ]
+          },
+          "deliver": {
+            "_id": "5e8cd6b0a8229f4bb89f6c51",
+            "address": "Rua João Paulo XII",
+            "number": 658,
+            "neighborhood": "Centro",
+            "city": "Belo Horizonte",
+            "state": "MG",
+            "cep": "0000000",
+            "comp_address": "Apto. 1006",
+            "reference": "Perto do mercadinho.",
+            "id": "5e8cd6b0a8229f4bb89f6c51"
+          },
+          "createdAt": "2020-04-07T19:38:24.832Z",
+          "updatedAt": "2020-04-07T19:38:24.865Z",
+          "__v": 2,
+          "company": {
+            "_id": "5e849be86e5e8e0f745620ae",
+            "trading_name": "Get Food",         
+            "id": "5e849be86e5e8e0f745620ae",
+            "picture": "https://s3.amazonaws.com/thumbnails.venngage.com/template/9f596769-790d-4b5f-bb80-668016a9c920.png"
+          },
+          "from": {
+            "_id": "5e8c908b4eb7587324c3d80e",
+            "id": "5e8c908b4eb7587324c3d80e",
+            "name": "Marcelo Brandão",
+            "image": "https://barefootmedia.co.uk/wp-content/uploads/2016/01/Chris-user-profile.jpg",
+            "phone": "(31)98745-9877"
+          },
+          "payment_method": {
+            "_id": "5e1cf9aee05f8e556480da2c",
+            "method": "credit",
+            "label": "Crédito",
+            "id": "5e1cf9aee05f8e556480da2c"
+          },
+          "status": {
+            "_id": "5e1cd32e34bf3846601c8293",
+            "label": "Saiu Para Entregar",
+            "name": "dispatched",
+            "id": "5e1cd32e34bf3846601c8293"
+          },
+          "id": "5e8cd6b0a8229f4bb89f6c4e"
+        }
+      },{
+        "warnings": [],
+        "order": {
+          "_id": "5e8cd6b0a8229f4bb89f6c4e",
+          "order_number": "100007",
+          "order_cost": 12.9,
+          "money_change": "",
+          "content": [
+            {
+              "amount": 1,
+              "total_price": 15.90,
+              "product": {
+                "name": "Megazord Burger",
+                "cost": 12.90,
+                "increments": [
+                  {
+                    "name": "Ovos",
+                    "description": "",
+                    "price": 1.00,
+                    "id": "5e8728e19b10455eecb7ab8b",
+                    "ammount": 1,
+                    "total_price": 1.00
+                  },
+                  {
+                    "name": "Queijo Suíço",
+                    "price": 2.00,
+                    "id": "5e8728e19b10455eecb7ab8c",
+                    "ammount": 1,
+                    "total_price": 2.00
+                  }
+                ],
+                "id": "5e8609f90450051e4494d4d4"
+              },
+              "id": "5e8cd6b0a8229f4bb89f6c4f"
+            },{
+              "amount": 1,
+              "total_price": 12.90,
+              "product": {
+                "name": "Megazord Burger",
+                "cost": 12.90,
+                "increments": [],
+                "id": "5e8609f90450051e4494d4d4"
+              },
+              "id": "5e8cd6b0a8229f4bb89f6c4f"
+            },{
+              "amount": 1,
+              "total_price": 14.90,
+              "product": {
+                "name": "Megazord Burger",
+                "cost": 12.90,
+                "increments": [
+                  {
+                    "name": "Queijo Suíço",
+                    "price": 2.00,
+                    "id": "5e8728e19b10455eecb7ab8c",
+                    "ammount": 1,
+                    "total_price": 2.00
+                  }
+                ],
+                "id": "5e8609f90450051e4494d4d4"
+              },
+              "id": "5e8cd6b0a8229f4bb89f6c4f"
+            },{
+              "amount": 1,
+              "total_price": 13.90,
+              "product": {
+                "name": "Megazord Burger",
+                "cost": 12.90,
+                "increments": [
+                  {
+                    "name": "Ovos",
+                    "description": "",
+                    "price": 1.00,
+                    "id": "5e8728e19b10455eecb7ab8b",
+                    "ammount": 1,
+                    "total_price": 1.00
+                  }
+                ],
+                "id": "5e8609f90450051e4494d4d4"
+              },
+              "id": "5e8cd6b0a8229f4bb89f6c4f"
+            },{
+              "amount": 1,
+              "total_price": 15.90,
+              "product": {
+                "name": "Megazord Burger",
+                "cost": 12.90,
+                "increments": [
+                  {
+                    "name": "Ovos",
+                    "description": "",
+                    "price": 1.00,
+                    "id": "5e8728e19b10455eecb7ab8b",
+                    "ammount": 1,
+                    "total_price": 1.00
+                  },
+                  {
+                    "name": "Queijo Suíço",
+                    "price": 2.00,
+                    "id": "5e8728e19b10455eecb7ab8c",
+                    "ammount": 1,
+                    "total_price": 2.00
+                  }
+                ],
+                "id": "5e8609f90450051e4494d4d4"
+              },
+              "id": "5e8cd6b0a8229f4bb89f6c4f"
+            },{
+              "amount": 1,
+              "total_price": 15.90,
+              "product": {
+                "name": "Megazord Burger",
+                "cost": 12.90,
+                "increments": [
+                  {
+                    "name": "Ovos",
+                    "description": "",
+                    "price": 1.00,
+                    "id": "5e8728e19b10455eecb7ab8b",
+                    "ammount": 1,
+                    "total_price": 1.00
+                  },
+                  {
+                    "name": "Queijo Suíço",
+                    "price": 2.00,
+                    "id": "5e8728e19b10455eecb7ab8c",
+                    "ammount": 1,
+                    "total_price": 2.00
+                  }
+                ],
+                "id": "5e8609f90450051e4494d4d4"
+              },
+              "id": "5e8cd6b0a8229f4bb89f6c4f"
+            }
+          ],
+          "notifications": {
+            "total": 1,
+            "items": [
+              {
+                "id": "5e8609f90450051e4494d4d4",
+                "content": "O produto vai chegar no horário?",
+                "from": {
+                  "id": "5e8609f90450051e4494d4d4",
+                  "name": "Jõao Almeida Filho",
+                  "role": "client",
+                  "picture": null
+                },
+                "createdAt": "2020-04-02T15:51:21.606Z",
+                "updatedAt": "2020-04-03T12:38:11.271Z"
+              }
+            ]
+          },
+          "deliver": {
+            "_id": "5e8cd6b0a8229f4bb89f6c51",
+            "address": "Rua João Paulo XII",
+            "number": 658,
+            "neighborhood": "Centro",
+            "city": "Belo Horizonte",
+            "state": "MG",
+            "cep": "0000000",
+            "comp_address": "Apto. 1006",
+            "reference": "Perto do mercadinho.",
+            "id": "5e8cd6b0a8229f4bb89f6c51"
+          },
+          "createdAt": "2020-04-07T19:38:24.832Z",
+          "updatedAt": "2020-04-07T19:38:24.865Z",
+          "__v": 2,
+          "company": {
+            "_id": "5e849be86e5e8e0f745620ae",
+            "trading_name": "Get Food",         
+            "id": "5e849be86e5e8e0f745620ae",
+            "picture": "https://s3.amazonaws.com/thumbnails.venngage.com/template/9f596769-790d-4b5f-bb80-668016a9c920.png"
+          },
+          "from": {
+            "_id": "5e8c908b4eb7587324c3d80e",
+            "id": "5e8c908b4eb7587324c3d80e",
+            "name": "Marcelo Brandão",
+            "image": "https://barefootmedia.co.uk/wp-content/uploads/2016/01/Chris-user-profile.jpg",
+            "phone": "(31)98745-9877"
+          },
+          "payment_method": {
+            "_id": "5e1cf9aee05f8e556480da2c",
+            "method": "credit",
+            "label": "Crédito",
+            "id": "5e1cf9aee05f8e556480da2c"
+          },
+          "status": {
+            "_id": "5e1cd32e34bf3846601c8293",
+            "label": "Concluída",
+            "name": "done",
+            "id": "5e1cd32e34bf3846601c8293"
+          },
+          "id": "5e8cd6b0a8229f4bb89f6c4e"
+        }
+      },{
+        "warnings": [],
+        "order": {
+          "_id": "5e8cd6b0a8229f4bb89f6c4e",
+          "order_number": "100007",
+          "order_cost": 12.9,
+          "money_change": "",
+          "content": [
+            {
+              "amount": 1,
+              "total_price": 15.90,
+              "product": {
+                "name": "Megazord Burger",
+                "cost": 12.90,
+                "increments": [
+                  {
+                    "name": "Ovos",
+                    "description": "",
+                    "price": 1.00,
+                    "id": "5e8728e19b10455eecb7ab8b",
+                    "ammount": 1,
+                    "total_price": 1.00
+                  },
+                  {
+                    "name": "Queijo Suíço",
+                    "price": 2.00,
+                    "id": "5e8728e19b10455eecb7ab8c",
+                    "ammount": 1,
+                    "total_price": 2.00
+                  }
+                ],
+                "id": "5e8609f90450051e4494d4d4"
+              },
+              "id": "5e8cd6b0a8229f4bb89f6c4f"
+            },{
+              "amount": 1,
+              "total_price": 12.90,
+              "product": {
+                "name": "Megazord Burger",
+                "cost": 12.90,
+                "increments": [],
+                "id": "5e8609f90450051e4494d4d4"
+              },
+              "id": "5e8cd6b0a8229f4bb89f6c4f"
+            },{
+              "amount": 1,
+              "total_price": 14.90,
+              "product": {
+                "name": "Megazord Burger",
+                "cost": 12.90,
+                "increments": [
+                  {
+                    "name": "Queijo Suíço",
+                    "price": 2.00,
+                    "id": "5e8728e19b10455eecb7ab8c",
+                    "ammount": 1,
+                    "total_price": 2.00
+                  }
+                ],
+                "id": "5e8609f90450051e4494d4d4"
+              },
+              "id": "5e8cd6b0a8229f4bb89f6c4f"
+            },{
+              "amount": 1,
+              "total_price": 13.90,
+              "product": {
+                "name": "Megazord Burger",
+                "cost": 12.90,
+                "increments": [
+                  {
+                    "name": "Ovos",
+                    "description": "",
+                    "price": 1.00,
+                    "id": "5e8728e19b10455eecb7ab8b",
+                    "ammount": 1,
+                    "total_price": 1.00
+                  }
+                ],
+                "id": "5e8609f90450051e4494d4d4"
+              },
+              "id": "5e8cd6b0a8229f4bb89f6c4f"
+            },{
+              "amount": 1,
+              "total_price": 15.90,
+              "product": {
+                "name": "Megazord Burger",
+                "cost": 12.90,
+                "increments": [
+                  {
+                    "name": "Ovos",
+                    "description": "",
+                    "price": 1.00,
+                    "id": "5e8728e19b10455eecb7ab8b",
+                    "ammount": 1,
+                    "total_price": 1.00
+                  },
+                  {
+                    "name": "Queijo Suíço",
+                    "price": 2.00,
+                    "id": "5e8728e19b10455eecb7ab8c",
+                    "ammount": 1,
+                    "total_price": 2.00
+                  }
+                ],
+                "id": "5e8609f90450051e4494d4d4"
+              },
+              "id": "5e8cd6b0a8229f4bb89f6c4f"
+            },{
+              "amount": 1,
+              "total_price": 15.90,
+              "product": {
+                "name": "Megazord Burger",
+                "cost": 12.90,
+                "increments": [
+                  {
+                    "name": "Ovos",
+                    "description": "",
+                    "price": 1.00,
+                    "id": "5e8728e19b10455eecb7ab8b",
+                    "ammount": 1,
+                    "total_price": 1.00
+                  },
+                  {
+                    "name": "Queijo Suíço",
+                    "price": 2.00,
+                    "id": "5e8728e19b10455eecb7ab8c",
+                    "ammount": 1,
+                    "total_price": 2.00
+                  }
+                ],
+                "id": "5e8609f90450051e4494d4d4"
+              },
+              "id": "5e8cd6b0a8229f4bb89f6c4f"
+            }
+          ],
+          "notifications": {
+            "total": 1,
+            "items": [
+              {
+                "id": "5e8609f90450051e4494d4d4",
+                "content": "O produto vai chegar no horário?",
+                "from": {
+                  "id": "5e8609f90450051e4494d4d4",
+                  "name": "Jõao Almeida Filho",
+                  "role": "client",
+                  "picture": null
+                },
+                "createdAt": "2020-04-02T15:51:21.606Z",
+                "updatedAt": "2020-04-03T12:38:11.271Z"
+              }
+            ]
+          },
+          "deliver": {
+            "_id": "5e8cd6b0a8229f4bb89f6c51",
+            "address": "Rua João Paulo XII",
+            "number": 658,
+            "neighborhood": "Centro",
+            "city": "Belo Horizonte",
+            "state": "MG",
+            "cep": "0000000",
+            "comp_address": "Apto. 1006",
+            "reference": "Perto do mercadinho.",
+            "id": "5e8cd6b0a8229f4bb89f6c51"
+          },
+          "createdAt": "2020-04-07T19:38:24.832Z",
+          "updatedAt": "2020-04-07T19:38:24.865Z",
+          "__v": 2,
+          "company": {
+            "_id": "5e849be86e5e8e0f745620ae",
+            "trading_name": "Get Food",         
+            "id": "5e849be86e5e8e0f745620ae",
+            "picture": "https://s3.amazonaws.com/thumbnails.venngage.com/template/9f596769-790d-4b5f-bb80-668016a9c920.png"
+          },
+          "from": {
+            "_id": "5e8c908b4eb7587324c3d80e",
+            "id": "5e8c908b4eb7587324c3d80e",
+            "name": "Marcelo Brandão",
+            "image": "https://barefootmedia.co.uk/wp-content/uploads/2016/01/Chris-user-profile.jpg",
+            "phone": "(31)98745-9877"
+          },
+          "payment_method": {
+            "_id": "5e1cf9aee05f8e556480da2c",
+            "method": "credit",
+            "label": "Crédito",
+            "id": "5e1cf9aee05f8e556480da2c"
+          },
+          "status": {
+            "_id": "5e1cd32e34bf3846601c8293",
+            "label": "Concluída",
+            "name": "done",
+            "id": "5e1cd32e34bf3846601c8293"
+          },
+          "id": "5e8cd6b0a8229f4bb89f6c4e"
+        }
+      },{
+        "warnings": [],
+        "order": {
+          "_id": "5e8cd6b0a8229f4bb89f6c4e",
+          "order_number": "100007",
+          "order_cost": 12.9,
+          "money_change": "",
+          "content": [
+            {
+              "amount": 1,
+              "total_price": 15.90,
+              "product": {
+                "name": "Megazord Burger",
+                "cost": 12.90,
+                "increments": [
+                  {
+                    "name": "Ovos",
+                    "description": "",
+                    "price": 1.00,
+                    "id": "5e8728e19b10455eecb7ab8b",
+                    "ammount": 1,
+                    "total_price": 1.00
+                  },
+                  {
+                    "name": "Queijo Suíço",
+                    "price": 2.00,
+                    "id": "5e8728e19b10455eecb7ab8c",
+                    "ammount": 1,
+                    "total_price": 2.00
+                  }
+                ],
+                "id": "5e8609f90450051e4494d4d4"
+              },
+              "id": "5e8cd6b0a8229f4bb89f6c4f"
+            },{
+              "amount": 1,
+              "total_price": 12.90,
+              "product": {
+                "name": "Megazord Burger",
+                "cost": 12.90,
+                "increments": [],
+                "id": "5e8609f90450051e4494d4d4"
+              },
+              "id": "5e8cd6b0a8229f4bb89f6c4f"
+            },{
+              "amount": 1,
+              "total_price": 14.90,
+              "product": {
+                "name": "Megazord Burger",
+                "cost": 12.90,
+                "increments": [
+                  {
+                    "name": "Queijo Suíço",
+                    "price": 2.00,
+                    "id": "5e8728e19b10455eecb7ab8c",
+                    "ammount": 1,
+                    "total_price": 2.00
+                  }
+                ],
+                "id": "5e8609f90450051e4494d4d4"
+              },
+              "id": "5e8cd6b0a8229f4bb89f6c4f"
+            },{
+              "amount": 1,
+              "total_price": 13.90,
+              "product": {
+                "name": "Megazord Burger",
+                "cost": 12.90,
+                "increments": [
+                  {
+                    "name": "Ovos",
+                    "description": "",
+                    "price": 1.00,
+                    "id": "5e8728e19b10455eecb7ab8b",
+                    "ammount": 1,
+                    "total_price": 1.00
+                  }
+                ],
+                "id": "5e8609f90450051e4494d4d4"
+              },
+              "id": "5e8cd6b0a8229f4bb89f6c4f"
+            },{
+              "amount": 1,
+              "total_price": 15.90,
+              "product": {
+                "name": "Megazord Burger",
+                "cost": 12.90,
+                "increments": [
+                  {
+                    "name": "Ovos",
+                    "description": "",
+                    "price": 1.00,
+                    "id": "5e8728e19b10455eecb7ab8b",
+                    "ammount": 1,
+                    "total_price": 1.00
+                  },
+                  {
+                    "name": "Queijo Suíço",
+                    "price": 2.00,
+                    "id": "5e8728e19b10455eecb7ab8c",
+                    "ammount": 1,
+                    "total_price": 2.00
+                  }
+                ],
+                "id": "5e8609f90450051e4494d4d4"
+              },
+              "id": "5e8cd6b0a8229f4bb89f6c4f"
+            },{
+              "amount": 1,
+              "total_price": 15.90,
+              "product": {
+                "name": "Megazord Burger",
+                "cost": 12.90,
+                "increments": [
+                  {
+                    "name": "Ovos",
+                    "description": "",
+                    "price": 1.00,
+                    "id": "5e8728e19b10455eecb7ab8b",
+                    "ammount": 1,
+                    "total_price": 1.00
+                  },
+                  {
+                    "name": "Queijo Suíço",
+                    "price": 2.00,
+                    "id": "5e8728e19b10455eecb7ab8c",
+                    "ammount": 1,
+                    "total_price": 2.00
+                  }
+                ],
+                "id": "5e8609f90450051e4494d4d4"
+              },
+              "id": "5e8cd6b0a8229f4bb89f6c4f"
+            }
+          ],
+          "notifications": {
+            "total": 1,
+            "items": [
+              {
+                "id": "5e8609f90450051e4494d4d4",
+                "content": "O produto vai chegar no horário?",
+                "from": {
+                  "id": "5e8609f90450051e4494d4d4",
+                  "name": "Jõao Almeida Filho",
+                  "role": "client",
+                  "picture": null
+                },
+                "createdAt": "2020-04-02T15:51:21.606Z",
+                "updatedAt": "2020-04-03T12:38:11.271Z"
+              }
+            ]
+          },
+          "deliver": {
+            "_id": "5e8cd6b0a8229f4bb89f6c51",
+            "address": "Rua João Paulo XII",
+            "number": 658,
+            "neighborhood": "Centro",
+            "city": "Belo Horizonte",
+            "state": "MG",
+            "cep": "0000000",
+            "comp_address": "Apto. 1006",
+            "reference": "Perto do mercadinho.",
+            "id": "5e8cd6b0a8229f4bb89f6c51"
+          },
+          "createdAt": "2020-04-07T19:38:24.832Z",
+          "updatedAt": "2020-04-07T19:38:24.865Z",
+          "__v": 2,
+          "company": {
+            "_id": "5e849be86e5e8e0f745620ae",
+            "trading_name": "Get Food",         
+            "id": "5e849be86e5e8e0f745620ae",
+            "picture": "https://s3.amazonaws.com/thumbnails.venngage.com/template/9f596769-790d-4b5f-bb80-668016a9c920.png"
+          },
+          "from": {
+            "_id": "5e8c908b4eb7587324c3d80e",
+            "id": "5e8c908b4eb7587324c3d80e",
+            "name": "Marcelo Brandão",
+            "image": "https://barefootmedia.co.uk/wp-content/uploads/2016/01/Chris-user-profile.jpg",
+            "phone": "(31)98745-9877"
+          },
+          "payment_method": {
+            "_id": "5e1cf9aee05f8e556480da2c",
+            "method": "credit",
+            "label": "Crédito",
+            "id": "5e1cf9aee05f8e556480da2c"
+          },
+          "status": {
+            "_id": "5e1cd32e34bf3846601c8293",
+            "label": "Cancelada",
+            "name": "cancelled",
+            "id": "5e1cd32e34bf3846601c8293"
+          },
+          "id": "5e8cd6b0a8229f4bb89f6c4e"
+        }
+      },{
+        "warnings": [],
+        "order": {
+          "_id": "5e8cd6b0a8229f4bb89f6c4e",
+          "order_number": "100007",
+          "order_cost": 12.9,
+          "money_change": "",
+          "content": [
+            {
+              "amount": 1,
+              "total_price": 15.90,
+              "product": {
+                "name": "Megazord Burger",
+                "cost": 12.90,
+                "increments": [
+                  {
+                    "name": "Ovos",
+                    "description": "",
+                    "price": 1.00,
+                    "id": "5e8728e19b10455eecb7ab8b",
+                    "ammount": 1,
+                    "total_price": 1.00
+                  },
+                  {
+                    "name": "Queijo Suíço",
+                    "price": 2.00,
+                    "id": "5e8728e19b10455eecb7ab8c",
+                    "ammount": 1,
+                    "total_price": 2.00
+                  }
+                ],
+                "id": "5e8609f90450051e4494d4d4"
+              },
+              "id": "5e8cd6b0a8229f4bb89f6c4f"
+            },{
+              "amount": 1,
+              "total_price": 12.90,
+              "product": {
+                "name": "Megazord Burger",
+                "cost": 12.90,
+                "increments": [],
+                "id": "5e8609f90450051e4494d4d4"
+              },
+              "id": "5e8cd6b0a8229f4bb89f6c4f"
+            },{
+              "amount": 1,
+              "total_price": 14.90,
+              "product": {
+                "name": "Megazord Burger",
+                "cost": 12.90,
+                "increments": [
+                  {
+                    "name": "Queijo Suíço",
+                    "price": 2.00,
+                    "id": "5e8728e19b10455eecb7ab8c",
+                    "ammount": 1,
+                    "total_price": 2.00
+                  }
+                ],
+                "id": "5e8609f90450051e4494d4d4"
+              },
+              "id": "5e8cd6b0a8229f4bb89f6c4f"
+            },{
+              "amount": 1,
+              "total_price": 13.90,
+              "product": {
+                "name": "Megazord Burger",
+                "cost": 12.90,
+                "increments": [
+                  {
+                    "name": "Ovos",
+                    "description": "",
+                    "price": 1.00,
+                    "id": "5e8728e19b10455eecb7ab8b",
+                    "ammount": 1,
+                    "total_price": 1.00
+                  }
+                ],
+                "id": "5e8609f90450051e4494d4d4"
+              },
+              "id": "5e8cd6b0a8229f4bb89f6c4f"
+            },{
+              "amount": 1,
+              "total_price": 15.90,
+              "product": {
+                "name": "Megazord Burger",
+                "cost": 12.90,
+                "increments": [
+                  {
+                    "name": "Ovos",
+                    "description": "",
+                    "price": 1.00,
+                    "id": "5e8728e19b10455eecb7ab8b",
+                    "ammount": 1,
+                    "total_price": 1.00
+                  },
+                  {
+                    "name": "Queijo Suíço",
+                    "price": 2.00,
+                    "id": "5e8728e19b10455eecb7ab8c",
+                    "ammount": 1,
+                    "total_price": 2.00
+                  }
+                ],
+                "id": "5e8609f90450051e4494d4d4"
+              },
+              "id": "5e8cd6b0a8229f4bb89f6c4f"
+            },{
+              "amount": 1,
+              "total_price": 15.90,
+              "product": {
+                "name": "Megazord Burger",
+                "cost": 12.90,
+                "increments": [
+                  {
+                    "name": "Ovos",
+                    "description": "",
+                    "price": 1.00,
+                    "id": "5e8728e19b10455eecb7ab8b",
+                    "ammount": 1,
+                    "total_price": 1.00
+                  },
+                  {
+                    "name": "Queijo Suíço",
+                    "price": 2.00,
+                    "id": "5e8728e19b10455eecb7ab8c",
+                    "ammount": 1,
+                    "total_price": 2.00
+                  }
+                ],
+                "id": "5e8609f90450051e4494d4d4"
+              },
+              "id": "5e8cd6b0a8229f4bb89f6c4f"
+            }
+          ],
+          "notifications": {
+            "total": 1,
+            "items": [
+              {
+                "id": "5e8609f90450051e4494d4d4",
+                "content": "O produto vai chegar no horário?",
+                "from": {
+                  "id": "5e8609f90450051e4494d4d4",
+                  "name": "Jõao Almeida Filho",
+                  "role": "client",
+                  "picture": null
+                },
+                "createdAt": "2020-04-02T15:51:21.606Z",
+                "updatedAt": "2020-04-03T12:38:11.271Z"
+              }
+            ]
+          },
+          "deliver": {
+            "_id": "5e8cd6b0a8229f4bb89f6c51",
+            "address": "Rua João Paulo XII",
+            "number": 658,
+            "neighborhood": "Centro",
+            "city": "Belo Horizonte",
+            "state": "MG",
+            "cep": "0000000",
+            "comp_address": "Apto. 1006",
+            "reference": "Perto do mercadinho.",
+            "id": "5e8cd6b0a8229f4bb89f6c51"
+          },
+          "createdAt": "2020-04-07T19:38:24.832Z",
+          "updatedAt": "2020-04-07T19:38:24.865Z",
+          "__v": 2,
+          "company": {
+            "_id": "5e849be86e5e8e0f745620ae",
+            "trading_name": "Get Food",         
+            "id": "5e849be86e5e8e0f745620ae",
+            "picture": "https://s3.amazonaws.com/thumbnails.venngage.com/template/9f596769-790d-4b5f-bb80-668016a9c920.png"
+          },
+          "from": {
+            "_id": "5e8c908b4eb7587324c3d80e",
+            "id": "5e8c908b4eb7587324c3d80e",
+            "name": "Marcelo Brandão",
+            "image": "https://barefootmedia.co.uk/wp-content/uploads/2016/01/Chris-user-profile.jpg",
+            "phone": "(31)98745-9877"
+          },
+          "payment_method": {
+            "_id": "5e1cf9aee05f8e556480da2c",
+            "method": "credit",
+            "label": "Crédito",
+            "id": "5e1cf9aee05f8e556480da2c"
+          },
+          "status": {
+            "_id": "5e1cd32e34bf3846601c8293",
+            "label": "Cancelada",
+            "name": "cancelled",
+            "id": "5e1cd32e34bf3846601c8293"
+          },
+          "id": "5e8cd6b0a8229f4bb89f6c4e"
+        }
+      }
+    ]
+  },
+  "restrictions": {
+    "restrictions": [
+      {
+        "id": "5edfc9a3934850e2f627817c",
+        "state": "MG",
+        "city": "Belo Horizonte",
+        "neighborhood": "São Pedro"
+      },
+      {
+        "id": "5edfc9a3934850e2f627817c",
+        "state": "MG",
+        "city": "Belo Horizonte",
+        "neighborhood": "Bairro do Guarani"
+      },
+      {
+        "id": "5edfc9a3934850e2f627817c",
+        "state": "MG",
+        "city": "Belo Horizonte",
+        "neighborhood": "Laranjal"
+      },
+      {
+        "id": "5edfc9a3934850e2f627817c",
+        "state": "MG",
+        "city": "Belo Horizonte",
+        "neighborhood": "Aquino Bento"
+      },
+      {
+        "id": "5edfc9a3934850e2f627817c",
+        "state": "MG",
+        "city": "Belo Horizonte",
+        "neighborhood": "Fiandeiras"
+      },
+      {
+        "id": "5edfc9a3934850e2f627817c",
+        "state": "MG",
+        "city": "Belo Horizonte",
+        "neighborhood": "Jardim Monte Belo"
+      },
+      {
+        "id": "5edfc9a3934850e2f627817c",
+        "state": "MG",
+        "city": "Belo Horizonte",
+        "neighborhood": "Turmalina"
+      },
+      {
+        "id": "5edfc9a3934850e2f627817c",
+        "state": "MG",
+        "city": "Belo Horizonte",
+        "neighborhood": "Portão"
+      },
+      {
+        "id": "5edfc9a3934850e2f627817c",
+        "state": "MG",
+        "city": "Belo Horizonte",
+        "neighborhood": "Aldeia do Bosque"
+      },
+      {
+        "id": "5edfc9a3934850e2f627817c",
+        "state": "MG",
+        "city": "Belo Horizonte",
+        "neighborhood": "Apiandares"
+      },
+      {
+        "id": "5edfc9a3934850e2f627817c",
+        "state": "MG",
+        "city": "Belo Horizonte",
+        "neighborhood": "Jururema"
+      }
+    ]
+  }
+}
